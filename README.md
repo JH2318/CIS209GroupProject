@@ -18,45 +18,8 @@ The website provides visitors with an engaging landing page that highlights muse
 
 # Website Wireframe Layout
 
-```
----------------------------------------------------------
-|                                                       |
-|        Georgia Museum of Space and Time               |
-|                                                       |
-|        Tickets | Contact                              |
----------------------------------------------------------
-|                                                       |
-|                    MAIN SECTION                       |
-|                                                       |
-|        Photo Gallery / Video Showcase                 |
-|                                                       |
-|        Interactive Feature                            |
-|        (Example: play video, image slider,            |
-|        or space fact generator)                       |
-|                                                       |
-|                [ BUY TICKETS ]                        |
-|             Centered Push Button                      |
-|                                                       |
----------------------------------------------------------
-|                                                       |
-|                    CONTACT FORM                       |
-|                                                       |
-|  Name:  __________________________                    |
-|  Email: __________________________                    |
-|  Message:                                           |
-|  _____________________________________________        |
-|                                                       |
-|  [ Submit ]                                          |
-|                                                       |
----------------------------------------------------------
-|                                                       |
-|                Footer                                 |
-|                Created by: (Your Name)                |
-|                                                       |
----------------------------------------------------------
-```
+![---------------------------------------------------------    Georgia Museum of Space and Time     Tickets  Contact  ---------------------------------------------------------    MAIN SECTION     Ph](https://github.com/user-attachments/assets/db657489-90ff-4d94-a575-1c09dc8c7e9a)
 
----
 
 # Page Sections
 
