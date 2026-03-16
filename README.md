@@ -232,5 +232,5 @@ Add mobile responsive styling
 Author
 
 Your Name
-CIS 209 – Web Development
+Olivia, Jacob & Austin
 
