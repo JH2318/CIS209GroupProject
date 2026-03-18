@@ -192,8 +192,36 @@ Expand the interactive exhibit section
 
 Add mobile responsive styling
 
-Author
+## 16 Personalities Test
 
-Your Name
-Olivia, Jacob & Austin
+### Personality Work Style Summary
+
+We completed the 16 Personalities test to better understand our working styles:
+
+* **Jacob:** INTJ-T (Architect)
+* **Me:** INFJ-T (Advocate)
+
+**Core Difference:**
+
+* **INTJ-T (Jacob):** Logic-driven, efficiency-focused, direct
+* **INFJ-T (Me):** Values-driven, people-focused, empathetic
+
+**Common Clashes:**
+
+* **Decision-making:** Jacob tends to move quickly and strategically, while I take more time to consider people impact
+* **Communication:** Jacob is more blunt and concise; I’m more diplomatic and sensitive to tone
+* **Conflict:** Jacob addresses issues directly; I may avoid or internalize tension
+* **Priorities:** Jacob prioritizes results and systems; I prioritize team harmony and ethics
+
+**Stress Factor (-T):**
+
+* Both of us can become more reactive under pressure
+* Jacob may become more critical; I may withdraw or feel overwhelmed
+
+**How We Work Better Together:**
+
+* Jacob works to soften delivery and consider emotional impact
+* I work to communicate more directly and clearly
+* We align early on goals (balancing efficiency with people impact)
+
 
