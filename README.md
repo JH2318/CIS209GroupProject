@@ -192,6 +192,7 @@ Expand the interactive exhibit section
 
 Add mobile responsive styling
 
+
 ## 16 Personalities Test
 
 ### Personality Work Style Summary
