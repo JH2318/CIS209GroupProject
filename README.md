@@ -192,37 +192,38 @@ Expand the interactive exhibit section
 
 Add mobile responsive styling
 
-
-## 16 Personalities Test
-
-### Personality Work Style Summary
+# 16 Personalities Test
+Personality Work Style Summary
 
 Our team completed the 16 Personalities test to better understand our working styles:
 
-* **Jacob:** INTJ-T (Architect)
-* **Olivia:** INFJ-T (Advocate)
+Jacob: INTJ-T (Architect)
+Olivia: INFJ-T (Advocate)
+Austin: ENFP-A (Campaigner)
 
-**Core Difference:**
+Core Difference:
 
-* **INTJ-T (Jacob):** Logic-driven, efficiency-focused, direct
-* **INFJ-T (Olivia):** Values-driven, people-focused, empathetic
+INTJ-T (Jacob): Logic-driven, efficiency-focused, direct
+INFJ-T (Olivia): Values-driven, people-focused, empathetic
+ENFP-A (Austin): Idea-driven, energetic, people-oriented, thrives on creativity and possibilities
 
-**Common Clashes:**
+Common Clashes:
 
-* **Decision-making:** Jacob tends to move quickly and strategically, while Olivia takes more time to consider people impact
-* **Communication:** Jacob is more blunt and concise; Olivia is more diplomatic and sensitive to tone
-* **Conflict:** Jacob addresses issues directly; Olivia may avoid or internalize tension
-* **Priorities:** Jacob prioritizes results and systems; Olivia prioritizes team harmony and ethics
+Decision-making: Jacob tends to move quickly and strategically, Olivia considers people impact, while Austin may explore multiple possibilities before committing
+Communication: Jacob is blunt and concise; Olivia is diplomatic; Austin is expressive, enthusiastic, and sometimes less structured
+Conflict: Jacob addresses issues directly; Olivia may avoid or internalize tension; Austin may try to defuse tension or shift focus to solutions
+Priorities: Jacob prioritizes results and systems; Olivia prioritizes team harmony and ethics; Austin prioritizes innovation, collaboration, and big-picture thinking
 
-**Stress Factor (-T):**
+Stress Factor (-T / -A):
 
-* Both of us can become more reactive under pressure
-* Jacob may become more critical; Olivia may withdraw or feel overwhelmed
+Jacob and Olivia (-T) can become more reactive under pressure
+Austin (-A) is generally more stress-resistant but may become scattered or overly optimistic
+Jacob may become more critical; Olivia may withdraw or feel overwhelmed; Austin may lose focus or jump between ideas
 
-**How We Work Better Together:**
+How We Work Better Together:
 
-* Jacob works to soften delivery and consider emotional impact
-* Olivia works to communicate more directly and clearly
-* We align early on goals (balancing efficiency with people impact)
-
+Jacob works to soften delivery and consider emotional impact
+Olivia works to communicate more directly and clearly
+Austin works to stay focused and follow through on ideas
+We align early on goals (balancing efficiency, people impact, and creativity)
 
