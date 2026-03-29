@@ -18,7 +18,8 @@ The website provides visitors with an engaging landing page that highlights muse
 
 # Website Wireframe Layout
 
-![---------------------------------------------------------    Georgia Museum of Space and Time     Tickets  Contact  ---------------------------------------------------------    MAIN SECTION     Ph](https://github.com/user-attachments/assets/db657489-90ff-4d94-a575-1c09dc8c7e9a)
+![ HEADER   Georgia Museum of Space and Time Tickets Contact   HERO  MAIN SECTION   --------------------------------------------------    SPACE IMAGE  VIDEO AREA     Explore Space and Time   Short ](https://github.com/user-attachments/assets/fe48596e-a23b-46bf-a5a7-6a6c49234eab)
+
 
 
 # Page Sections
