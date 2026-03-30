@@ -18,7 +18,15 @@ The website provides visitors with an engaging landing page that highlights muse
 
 # Website Wireframe Layout
 
-![ HEADER   Georgia Museum of Space and Time Tickets Contact   HERO  MAIN SECTION   --------------------------------------------------    SPACE IMAGE  VIDEO AREA     Explore Space and Time   Short ](https://github.com/user-attachments/assets/fe48596e-a23b-46bf-a5a7-6a6c49234eab)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ccf9a176-d6da-4288-a20d-530de685583b" />
+
+
+
+# Technical Mission
+Build a fast, responsive, and accessible website with clear structure, intuitive navigation, and reliable functionality across all devices.
+
+# Aesthetic Mission
+Create a modern experience that feels immersive yet simple, using blue, pink, gold, and purple to reflect exploration, creativity, and elegance.
 
 
 
