@@ -99,7 +99,6 @@ The footer displays author information.
 Example:
 
 ```
-Created by: Your Name
 CIS 209 Group Project
 ```
 
