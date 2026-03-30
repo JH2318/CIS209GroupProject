@@ -16,9 +16,10 @@ The website provides visitors with an engaging landing page that highlights muse
 
 ---
 
-# Website Wireframe Layout
+# Website Layout
+ <img width="1920" height="1080" alt="grp" src="https://github.com/user-attachments/assets/449c217f-0710-45e8-a84e-4bf63bba9cf7" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ccf9a176-d6da-4288-a20d-530de685583b" />
+
 
 
 
