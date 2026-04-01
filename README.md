@@ -235,5 +235,3 @@ Jacob works to soften delivery and consider emotional impact
 Olivia works to communicate more directly and clearly
 Austin works to stay focused and follow through on ideas
 We align early on goals (balancing efficiency, people impact, and creativity)
-
-test
