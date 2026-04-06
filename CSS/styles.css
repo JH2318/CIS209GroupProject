@@ -1,1 +1,151 @@
-/* Placeholder */
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Space background */
+body {
+  height: 100vh;
+  background: radial-gradient(circle at top, #0a0f2c, #01020a 80%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #dfe6ff;
+  overflow: hidden;
+}
+
+/* Starfield effect */
+body::before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  background: url('https://www.transparenttextures.com/patterns/stardust.png');
+  opacity: 0.2;
+  animation: moveStars 80s linear infinite;
+}
+
+@keyframes moveStars {
+  from { transform: translate(0, 0); }
+  to { transform: translate(-300px, -300px); }
+}
+
+/* Main container */
+.container {
+  position: relative;
+  width: 350px;
+  padding: 35px;
+  border-radius: 15px;
+  background: rgba(10, 15, 40, 0.85);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(120, 150, 255, 0.2);
+  box-shadow: 0 0 30px rgba(100, 130, 255, 0.25);
+}
+
+/* Glow border */
+.container::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: 15px;
+  background: linear-gradient(120deg, #4facfe, #7367f0, #00f2fe);
+  z-index: -1;
+  filter: blur(12px);
+  opacity: 0.4;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: #9fb4ff;
+  text-shadow: 0 0 10px rgba(120,150,255,0.8);
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 0.9em;
+  margin-bottom: 15px;
+  opacity: 0.7;
+}
+
+/* Divider */
+hr {
+  border: 1px solid rgba(120,150,255,0.2);
+  margin: 15px 0;
+}
+
+/* Labels */
+label {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 8px;
+  border: none;
+  background: rgba(20, 25, 60, 0.85);
+  color: white;
+  transition: 0.3s;
+}
+
+/* Input glow on focus */
+input:focus {
+  outline: none;
+  box-shadow: 0 0 12px rgba(120,150,255,0.8);
+  background: rgba(30, 40, 90, 0.9);
+}
+
+/* Button */
+.registerbtn {
+  width: 100%;
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background: linear-gradient(90deg, #4facfe, #7367f0);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Button hover */
+.registerbtn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(120,150,255,0.9);
+}
+
+/* Terms text */
+.terms {
+  font-size: 0.8em;
+  text-align: center;
+  opacity: 0.7;
+}
+
+a {
+  color: #8ab4ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 0 0 8px rgba(120,150,255,0.9);
+}
+
+/* Bottom section */
+.signin {
+  margin-top: 10px;
+  text-align: center;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+}
