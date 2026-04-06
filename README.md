@@ -23,18 +23,17 @@ The website provides visitors with an engaging landing page that highlights muse
 
 
 
-# Technical Mission
+# Technical Mission & Requirements 
 Build a fast, responsive, and accessible website with clear structure, intuitive navigation, and reliable functionality across all devices.
 - This website will be built using HTML & CSS
 - JavaScript will be used for interactive features
 - The project will be hosted using GitHub pages
 - No external API's
 - Collaboration will be managed through GitHub
-- imagery and font may be enhancement/edited by using Canva
 
-# Aesthetic Mission
+# Aesthetic Mission & Requirements 
 Create a modern experience that feels immersive yet simple, using blue, pink, gold, and purple to reflect exploration, creativity, and elegance.
-
+- Imagery & font may be enhanced using Canva
 
 
 # Page Sections
