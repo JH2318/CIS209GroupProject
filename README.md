@@ -109,12 +109,6 @@ CIS 209 Group Project
 
 ---
 
-# Technologies Used
-
-* HTML
-* CSS
-* Basic JavaScript (optional for interactive features)
-
 ---
 
 # Future Improvements
