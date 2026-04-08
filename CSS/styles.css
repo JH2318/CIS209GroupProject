@@ -6,15 +6,63 @@
   font-family: 'Orbitron', sans-serif;
 }
 
+
+
 /* Space background */
-body {
+body { 
+  margin: 0;
+  padding: 0;
   height: 100vh;
   background: radial-gradient(circle at top, #0a0f2c, #01020a 80%);
-  display: flex;
-  justify-content: center;
   align-items: center;
+  flex-direction: column;
+  display:flex;
   color: #dfe6ff;
   overflow: hidden;
+}
+
+
+header{
+  align-self: stretch;
+    margin-top: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 9%;
+    background-color: transparent;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-weight: 650;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.logo:hover{
+    transform: scale(1.2);
+}
+
+nav a{
+    font-size: 1.0rem;
+    color: white;
+    margin-left: 4rem;
+    font-weight: 400;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover,
+nav a.active{
+    color: #9e037f;
+    border-bottom: 3px solid #222;
+
 }
 
 /* Starfield effect */
@@ -148,4 +196,9 @@ a:hover {
   background: transparent;
   box-shadow: none;
   border: none;
+}
+
+body, h1 {
+  margin: 0;
+  padding: 0;
 }
