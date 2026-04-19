@@ -83,6 +83,8 @@ nav a.active{
   background: linear-gradient(135deg, #0b0f2a, #1c2541);
   color: #ffffff;
   font-family: 'Arial', sans-serif;
+  width: 100%;
+  opacity: 60%;
 }
 
 /* Text content */
@@ -130,7 +132,6 @@ nav a.active{
 /* Responsive */
 @media (max-width: 900px) {
   .hero {
-    flex-direction: ;
     text-align: center;
   }
 
