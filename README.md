@@ -33,7 +33,7 @@ Build a fast, responsive, and accessible website with clear structure, intuitive
 
 # Aesthetic Mission & Requirements 
 Create a modern experience that feels immersive yet simple, using blue, pink, gold, and purple to reflect exploration, creativity, and elegance.
-- Imagery & font may be enhanced using Canva
+- Imagery & font may be enhanced using Canva and Claude
 
 
 # Page Sections
